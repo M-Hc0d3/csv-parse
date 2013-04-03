@@ -1,5 +1,0 @@
-<scirpt>
-
-
-
-</script>
