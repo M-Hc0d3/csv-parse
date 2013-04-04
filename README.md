@@ -6,10 +6,10 @@ More Info here S00n!
 ## Developer Guidelines:
 
 ### Code Info:
-Before you do anything else you should read the basic reason behind [making this peace of code](https://github.com/M-Hc0d3/csvAJAXapp). This will show you what I am trying to develop. Also you should check it regularly for any updates.
+Before you do anything else you should read the my basic reason behind [making this code](https://github.com/M-Hc0d3/csvAJAXapp). This will show you what I am trying to develop. You should  also check it regularly for any updates.
 
 ### Suggestions:
-Those experience with js objects and AJAX functions to server related files are welcome to explore and help make this code...
+Those who have experience using js objects and AJAX functions to server related files are welcome to explore and help make this code...
 
 ### Coding Style Guidelines
 [Coding Style Guidelines](https://github.com/Logi0/vilify/wiki/Coding-Style-Guidelines)
