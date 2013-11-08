@@ -1,7 +1,8 @@
 CSV Data extraction
 ======
 
-More Info here S00n!
+Using Regex and every other possible solution to parse through a messy csv file and get relevant information put into a JSON.
+This is a side project to help with the timetable feature of the school app i am building.
 
 ## Developer Guidelines:
 
@@ -16,7 +17,6 @@ Those who have experience using js objects and AJAX functions to server related 
 
 ### Tutorials
 1. [Codecademy JavaScript Track](http://www.codecademy.com/tracks/javascript)
-2. [Codecademy Web Fundamentals Track](http://www.codecademy.com/tracks/web)
-3. [Codecademy JSON Track](http://www.codecademy.com/courses/javascript-beginner-en-xTAfX/0#!/exercises/0)
-4. [Youtube Tutorials](https://www.youtube.com)
-5. [StackOverflow CSV Q/A](https://www.stackoverflow.com)
+2. [Regex Tutorial](http://gskinner.com/RegExr/)
+3. [Youtube Tutorials](https://www.youtube.com)
+4. [StackOverflow CSV Q/A](https://www.stackoverflow.com)
